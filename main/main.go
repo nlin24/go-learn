@@ -1,6 +1,6 @@
 package main
 
-import "github.com/nlin24/hello"
+import "github.com/nlin24/go-learn/hello"
 
 func main(){
 	hello.Hello()
